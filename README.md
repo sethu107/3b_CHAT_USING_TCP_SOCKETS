@@ -1,7 +1,7 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-##NAME: SETHUPATHI k
-##REG NO: 212223040189
-DEP: CSE
+## NAME: SETHUPATHI k
+## REG NO: 212223040189
+## DEP: CSE
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
